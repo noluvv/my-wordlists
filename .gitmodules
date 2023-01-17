@@ -4,3 +4,6 @@
 [submodule "cupp"]
 	path = cupp
 	url = https://github.com/Mebus/cupp.git
+[submodule "CeWL"]
+	path = CeWL
+	url = https://github.com/digininja/CeWL.git
