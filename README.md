@@ -1,5 +1,5 @@
 # my-wordlists
-wordlists i use for testing security/security testing or whatever you want to call it. use them with hydra, ncrack, hashcat, john, aircrack-ng, pretty much any cracking software
+wordlists i use for testing web application log-in forms and wifi auditing. use them with hydra, ncrack, hashcat, john, aircrack-ng, pretty much any cracking software
 
 includes projects such as SecLists, cupp, and CeWL. i did not create those projects, i just added them to mine
 
